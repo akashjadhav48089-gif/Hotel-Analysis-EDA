@@ -98,8 +98,6 @@ The notebook examines booking counts by platform and visualizes realized revenue
 
 ![Booking platform distribution](screenshots/booking_platform_distribution.png)
 
-![Revenue by booking platform](screenshots/revenue_by_booking_platform.png)
-
 ### 6. Which room category has the highest occupancy?
 
 The notebook calculates average occupancy by room category and also maps room codes to room classes. The category-level output reports RT4 at **59.30%**, compared with RT1 at **58.23%**, RT2 at **58.04%**, and RT3 at **58.03%**.
